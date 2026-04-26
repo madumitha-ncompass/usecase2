@@ -1,1 +1,2 @@
 Hello this is usecase2
+This is in branch2 supposed to be in branch1
